@@ -1,0 +1,1 @@
+import{c6 as a}from"./index.1921beeb.js";const t=a("myglobalstate",{state:()=>({myangka:0,title:""}),getters:{propAngkaDikali2:a=>2*a.myangka,propAngkaAkar2:a=>a.myangka**2},actions:{fnTambahinAngka(){this.myangka++}}});export{t as u};

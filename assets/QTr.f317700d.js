@@ -1,0 +1,1 @@
+import{br as r,c as o,h as s,bs as e}from"./index.1921beeb.js";var p=r({name:"QTr",props:{props:Object,noHover:Boolean},setup(r,{slots:p}){const a=o((()=>"q-tr"+(void 0===r.props||!0===r.props.header?"":" "+r.props.__trClass)+(!0===r.noHover?" q-tr--no-hover":"")));return()=>s("tr",{class:a.value},e(p.default))}});export{p as Q};
